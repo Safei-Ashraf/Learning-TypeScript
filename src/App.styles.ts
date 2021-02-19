@@ -31,6 +31,7 @@ export const Wrapper = styled.div`
     font-size: 2rem;
     margin: 0;
     font-family: 'Reggae One', cursive;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
   }
   h1 {
     font-family: 'Reggae One', cursive;

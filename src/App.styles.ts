@@ -32,7 +32,7 @@ export const Wrapper = styled.div`
     margin: 0;
     font-family: 'Reggae One', cursive;
   text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
-  }
+g  }
   h1 {
     font-family: 'Reggae One', cursive;
     background-image: linear-gradient(180deg, #fff, #87f1ff);
